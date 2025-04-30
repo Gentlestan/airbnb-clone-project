@@ -121,3 +121,31 @@ Identifying the design properties (like color and typography) of a mockup is ess
 
 Each role collaborates closely to deliver a seamless, high-quality Airbnb-style booking experience—from defining requirements and crafting designs, through development and testing, to deployment and ongoing maintenance.
 
+## UI Component Patterns
+
+- **Navbar**  
+  A responsive top navigation bar that includes the logo, Search bar and Profile
+
+ **Categories**  
+  A responsive Menu that List all the categories
+
+- **Property Card**  
+  A reusable card component for displaying each property in the listing view. Includes the property image, title, location badge, rating, and price. Supports hover effects and clickable behavior to navigate to the detailed view.
+
+- **Search Bar**  
+  A prominent, full-width search input with filters for location, dates, and guest count. Incorporates auto-suggest and date-picker dropdowns for seamless user input.
+
+- **Badge / Tag**  
+  A small pill-shaped component for category labels (e.g., “Top Ville”, “Free Reschedule”) or status indicators. Configurable colors, rounded corners, and text styles.
+
+- **Hero Header**  
+  A large, attention-grabbing banner section for the homepage, combining a background image, prominent title, subtitle text, and a call-to-action button.
+
+- **Footer**  
+  A site footer containing links to About, Contact, Help, social media icons, and copyright information.
+
+
+
+
+
+
